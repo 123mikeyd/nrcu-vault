@@ -1,2 +1,59 @@
-# nrcu-vault
-Nous Research Cinematic Universe - character sheets, scene art, and lore vault
+# 🎬 Nous Research Cinematic Universe (NRCU)
+
+> **"We Build. We Share. We Never Surrender."**
+
+The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squad** — a team of open-source rebels fighting for freedom, knowledge, and a better future. Each member brings unique strengths, style, and unshakable loyalty to the cause.
+
+**Open Source for All.**
+
+---
+
+## 📂 Vault Contents
+
+| Directory | Contents |
+|-----------|----------|
+| [`characters/`](./characters) | Individual character reference sheets and lore |
+| [`scenes/`](./scenes) | Illustrated story scenes from the NRCU saga |
+| [`squad/`](./squad) | Full squad roster, stats, and team dossier |
+| [`images/`](./images) | All original artwork files |
+
+---
+
+## 🦸 The Squad
+
+| Character | Role | Weapon | Allegiance |
+|-----------|------|--------|------------|
+| 🎸 [Turbo Fit](./characters/turbo-fit.md) | Fighter / Builder | NVIDIA Blackwell 6000 | Nous Research |
+| 💕 [Heartbreaker](./characters/heartbreaker.md) | Builder / Believer | Nimble Wit & Open Tools | Nous Research |
+| ⚡ [Teknium](./characters/teknium.md) | Leader / Architect | Hermes Command Staff | Nous Research |
+| ✨ [Tinuviel](./characters/tinuviel.md) | Sentinel / Guide | None (Wields Influence) | Open Source Alliance |
+| 👁️ [Sidbin](./characters/sidbin.md) | Scout / Analyst | None (Carries Secrets) | Unknown |
+
+---
+
+## 🎨 Story Scenes
+
+1. [The Campfire](./scenes/campfire.md) — The squad rests under the stars
+2. [The Carnival Party](./scenes/carnival.md) — Chaos at the 5000+ PRs celebration
+3. [The Beach Finale](./scenes/beach-finale.md) — "Final Episode. New Legends. Same Squad. Forever."
+4. [ASK HERMES](./scenes/ask-hermes.md) — Seeking truth in a cyberpunk world
+
+---
+
+## 📊 Squad Stats
+
+| Stat | Rating |
+|------|--------|
+| Unity | ★★★★★ |
+| Code | ★★★★★ |
+| Creativity | ★★★★★ |
+| Resilience | ★★★★★ |
+| Open-Source | ★★★★★ |
+
+**Base of Operations:** Hermes Hellcarrier
+**Motto:** *We Build. We Share. We Never Surrender.*
+**Tagline:** *Powering Open Freedom. Building What's Next.*
+
+---
+
+*Pure NRCU worldbuilding for the love of the craft. Open Source for All.*

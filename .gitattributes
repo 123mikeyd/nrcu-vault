@@ -1,0 +1,2 @@
+# Images are stored directly in git (not LFS)
+# Individual files are under 5MB each, well within GitHub limits
