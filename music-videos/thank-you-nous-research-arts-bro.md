@@ -29,6 +29,8 @@ A community fan-made music video celebrating Nous Research. The source video is 
 
 - **Tinuviel** appears approximately **00:25–00:28**, kneeling among rocks and foliage in her dark-blue, gold-celestial-patterned gown.
 - **Gille** appears approximately **00:29**, driving a compact olive-green utility truck at night, then around **00:37–00:39** delivering a red insulated coffee thermos to an unidentified anthropomorphic coffee-machine-like figure. See [Gille’s minimal profile](../characters/gille.md).
+- **Brooklyn / Heartbreaker** appears around **00:40–00:42**, painting a Nous poster/logo panel depicting Nous Girl inside a workshop-like vehicle space. Her existing [character profile](../characters/heartbreaker.md) already covers her; no new lore is established here.
+- A small green **Cthulhu** figure is visible in the open equipment cupboard beside Brooklyn. It is preserved as a visual cameo only—no character profile or additional lore is asserted.
 
 ---
 
