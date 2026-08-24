@@ -33,6 +33,7 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - A small green **Cthulhu** figure is visible in the open equipment cupboard beside Brooklyn. It is preserved as a visual cameo only—no character profile or additional lore is asserted.
 - **Suzu** appears around **00:54**, interacting with a large industrial electrical device in a workshop setting. Her [provisional profile](../characters/suzu.md) preserves only the visible design anchors and an explicitly unconfirmed possible relationship to Nous Girl.
 - **Don Piedro** appears around **01:08** in a nighttime go-kart sequence. His [initial profile](../characters/don-piedro.md) records the named teddy-bear character only; the two community racers are retained as unidentified.
+- **Teknium** appears around **01:50** in a lighthouse/tower-like operations room surrounded by monitors, cables, and support gear. Mike identifies this as Teknium helping people worldwide from the tower; his existing [character profile](../characters/teknium.md) already covers him, so this is retained as a video-scene note rather than new lore.
 
 ---
 
