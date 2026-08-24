@@ -28,7 +28,7 @@ A community fan-made music video celebrating Nous Research. The source video is 
 ## Confirmed character appearances
 
 - **Tinuviel** appears approximately **00:25–00:28**, kneeling among rocks and foliage in her dark-blue, gold-celestial-patterned gown.
-- **Gille** appears approximately **00:29**, driving a compact olive-green utility truck at night. See [Gille’s minimal profile](../characters/gille.md).
+- **Gille** appears approximately **00:29**, driving a compact olive-green utility truck at night, then around **00:37–00:39** delivering a red insulated coffee thermos to an unidentified anthropomorphic coffee-machine-like figure. See [Gille’s minimal profile](../characters/gille.md).
 
 ---
 

@@ -12,14 +12,20 @@
 
 Gille is part of the support side of the team and handles support threads. Mike describes him as a good dude.
 
-## Visual reference — initial appearance
+## Visual references — confirmed appearances
 
-In the video source, Gille appears driving a compact olive-green utility truck at night through a mountain landscape. The visible design anchors are:
+### 00:29 — Night drive
+
+In the video source, Gille drives a compact olive-green utility truck at night through a mountain landscape. Visible design anchors:
 
 - Dark knit beanie
 - Short dark beard
 - Dark jacket
 - Compact olive-green utility truck
+
+### 00:37–00:39 — Coffee delivery
+
+Gille brings a red insulated coffee thermos to an **unidentified anthropomorphic coffee-machine-like figure** outside a vehicle or trailer. The scene is retained as a support/helping moment; it does **not** identify or establish lore for the coffee figure.
 
 ## Deliberate unknowns
 

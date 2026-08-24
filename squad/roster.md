@@ -62,7 +62,7 @@
 ### 🛻 Gille
 - **Role:** Support
 - **Focus:** Support Threads
-- **Initial Visual Reference:** Compact olive-green utility truck, seen in [“Thank You Nous Research”](../music-videos/thank-you-nous-research-arts-bro.md) at approximately 00:29
+- **Initial Visual References:** Driving a compact olive-green utility truck at approximately 00:29, then bringing a red insulated coffee thermos to an unidentified coffee-machine-like figure at approximately 00:37–00:39 in [“Thank You Nous Research”](../music-videos/thank-you-nous-research-arts-bro.md)
 - **Known Details:** Gille handles support threads; further lore and design details remain unconfirmed.
 - [Minimal Profile →](../characters/gille.md)
 
