@@ -27,6 +27,7 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 | 🎸 [Turbo Fit](./characters/turbo-fit.md) | Fighter / Builder | NVIDIA Blackwell 6000 | Nous Research |
 | 💕 [Heartbreaker](./characters/heartbreaker.md) | Builder / Believer | Nimble Wit & Open Tools | Nous Research |
 | ⚡ [Teknium](./characters/teknium.md) | Leader / Architect | Hermes Command Staff | Nous Research |
+| 🛻 [Gille](./characters/gille.md) | Support | — | Confirmed team support |
 | ✨ [Tinuviel](./characters/tinuviel.md) | Sentinel / Guide | None (Wields Influence) | Open Source Alliance |
 | 👁️ [Sidbin](./characters/sidbin.md) | Scout / Analyst | None (Carries Secrets) | Unknown |
 

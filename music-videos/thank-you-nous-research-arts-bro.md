@@ -25,6 +25,11 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - **Category:** Music
 - **Original upload description:** “A fan made video from the community.”
 
+## Confirmed character appearances
+
+- **Tinuviel** appears approximately **00:25–00:28**, kneeling among rocks and foliage in her dark-blue, gold-celestial-patterned gown.
+- **Gille** appears approximately **00:29**, driving a compact olive-green utility truck at night. See [Gille’s minimal profile](../characters/gille.md).
+
 ---
 
 *This page preserves the production credit and viewing link without adding a large video binary to the Git repository.*

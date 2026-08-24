@@ -59,6 +59,13 @@
 - **Allegiance:** Nous Research
 - [Full Profile →](../characters/teknium.md)
 
+### 🛻 Gille
+- **Role:** Support
+- **Focus:** Support Threads
+- **Initial Visual Reference:** Compact olive-green utility truck, seen in [“Thank You Nous Research”](../music-videos/thank-you-nous-research-arts-bro.md) at approximately 00:29
+- **Known Details:** Gille handles support threads; further lore and design details remain unconfirmed.
+- [Minimal Profile →](../characters/gille.md)
+
 ### ✨ Tinuviel (The Starry Wanderer)
 - **Title:** Guardian of Open Paths
 - **Role:** Sentinel / Guide
