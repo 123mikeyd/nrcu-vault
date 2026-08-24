@@ -37,6 +37,10 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - **Nous Girl** appears around **02:00** receiving a lantern from an unidentified long-haired figure. **ee.dd**, a community moderator, appears as the small green frog-like meme avatar on her shoulder; see [ee.dd’s cameo profile](../characters/ee-dd.md). The avatar is retained only as a third-party meme-style visual cameo.
 - **quark2world** appears around **02:09**, operating a large industrial machine. His [initial profile](../characters/quark2world.md) records the confirmed video identification and a HermelinChat connection while explicitly leaving any amglolification account association unconfirmed.
 
+## Unidentified appearances
+
+- Around **02:34**, a blue mushroom-headed, pixel-faced figure gives an **o7 salute** in a sunset garden scene. The figure’s identity, role, affiliation, and lore are unconfirmed, so it has no character profile.
+
 ---
 
 *This page preserves the production credit and viewing link without adding a large video binary to the Git repository.*
