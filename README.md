@@ -44,6 +44,7 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 ## 🎵 Music Videos
 
 1. [Thank You Nous Research](./music-videos/thank-you-nous-research-arts-bro.md) — A community fan-made video by Arts Bro ([watch on YouTube](https://youtu.be/9RJHcYCGLmQ))
+2. [Tekpunk — One More Prompt](./music-videos/tekpunk-one-more-prompt.md) — Hackathon fuel by amglolification for Nous Hackathon #2 ([watch on YouTube](https://youtu.be/1hysj5oTYSw))
 
 Videos are linked from their production pages instead of stored as raw MP4s, so the vault stays quick to clone and easy to preserve.
 
