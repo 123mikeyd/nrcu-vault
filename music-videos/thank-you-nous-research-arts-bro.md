@@ -34,6 +34,7 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - **Suzu** appears around **00:54**, interacting with a large industrial electrical device in a workshop setting. Her [provisional profile](../characters/suzu.md) preserves only the visible design anchors and an explicitly unconfirmed possible relationship to Nous Girl.
 - **Don Piedro** appears around **01:08** in a nighttime go-kart sequence. His [initial profile](../characters/don-piedro.md) records the named teddy-bear character only; the two community racers are retained as unidentified.
 - **Teknium** appears around **01:50** in a lighthouse/tower-like operations room surrounded by monitors, cables, and support gear. Mike identifies this as Teknium helping people worldwide from the tower; his existing [character profile](../characters/teknium.md) already covers him, so this is retained as a video-scene note rather than new lore.
+- **Nous Girl** appears around **02:00** receiving a lantern from an unidentified long-haired figure. **ee.dd**, a community moderator, appears as the small green frog-like meme avatar on her shoulder; see [ee.dd’s cameo profile](../characters/ee-dd.md). The avatar is retained only as a third-party meme-style visual cameo.
 
 ---
 
