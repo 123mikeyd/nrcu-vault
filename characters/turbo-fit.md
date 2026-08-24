@@ -9,6 +9,7 @@
 | **Height** | 6'1" (185 cm) |
 | **Build** | Lean / Athletic |
 | **Role** | Open-Source Rebel — Fighter / Builder |
+| **Community name** | Sovthpaw (identified by Mike in the “Thank You Nous Research” video) |
 | **Weapon** | NVIDIA Blackwell 6000 |
 | **Allegiance** | Nous Research |
 | **Signature Item** | Bass Guitar |
@@ -42,6 +43,10 @@ Performance, Hardware, Open-Source Advocacy
 - Front, 3/4 Front, Side, 3/4 Back, Back
 - Expressions: Neutral, Smirk, Looking Up, Looking Down, Profile, Over the Shoulder
 - Weapon Reference: NVIDIA Blackwell 6000
+
+## Video appearance — Thank You Nous Research
+
+Around **02:40**, Sovthpaw / Turbo Fit appears in a small home workspace with a teepee-like hut and a chalkboard, working to keep track of everything. Mike describes the scene as an unfazed, persistent effort to keep going despite the scale of the work.
 
 ## Design Notes
 
