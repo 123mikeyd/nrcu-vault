@@ -24,7 +24,6 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - **Runtime:** 03:00
 - **Category:** Music
 - **Original upload description:** “A fan made video from the community.”
-- **Production package:** A user-supplied NCU shot-bible bundle is cataloged separately as [Thank You Nous Research — NCU Production Package](./thank-you-nous-research-ncu-production-package.md).
 
 ## Confirmed character appearances
 
