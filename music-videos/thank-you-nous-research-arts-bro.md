@@ -28,7 +28,8 @@ A community fan-made music video celebrating Nous Research. The source video is 
 ## Confirmed character appearances
 
 - **Tinuviel** appears approximately **00:25–00:28**, kneeling among rocks and foliage in her dark-blue, gold-celestial-patterned gown.
-- **Gille** appears approximately **00:29**, driving a compact olive-green utility truck at night, then around **00:37–00:39** delivering a red insulated coffee thermos to an unidentified anthropomorphic coffee-machine-like figure. See [Gille’s minimal profile](../characters/gille.md).
+- **Gille** appears around **00:29**, driving a compact olive-green utility truck at night, then around **00:37–00:39** delivering a red insulated coffee thermos to **coffeeblender**. See [Gille’s minimal profile](../characters/gille.md) and [coffeeblender’s page](../characters/coffeeblender.md).
+- **isneezekittens** appears after the Linux penguin around **00:12**, then plays cards with **realtimeuk** around **00:33–00:35**. See [I Sneeze Kittens](../characters/isneezekittens.md).
 - **Brooklyn / Heartbreaker** appears around **00:40–00:42**, painting a Nous poster/logo panel depicting Nous Girl inside a workshop-like vehicle space. Her existing [character profile](../characters/heartbreaker.md) already covers her; no new lore is established here.
 - A small green **Cthulhu** figure is visible in the open equipment cupboard beside Brooklyn. It is preserved as a visual cameo only—no character profile or additional lore is asserted.
 - **Suzu** appears around **00:54**, interacting with a large industrial electrical device in a workshop setting. Her [provisional profile](../characters/suzu.md) preserves only the visible design anchors and an explicitly unconfirmed possible relationship to Nous Girl.
@@ -44,6 +45,9 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - **Tunacookie** is featured in the video.
 - **GottZ** is featured in the video.
 - **Shawn Cleta** is the person in the garden after the sun comes up.
+- **Witcheer** is the duck communicating with **Kainan** on a screen.
+- **tdamre** is the masked person.
+- **Fleety** is the person in the suit with empty pockets.
 
 ## Unidentified appearances
 
