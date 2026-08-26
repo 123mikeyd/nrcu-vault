@@ -11,7 +11,7 @@
 
 ## Video appearance
 
-ee.dd appears as a small green frog-like meme avatar perched on **Nous Girl’s** shoulder while she receives a lantern from an unidentified long-haired figure.
+ee.dd appears as a small green frog-like meme avatar perched on **Nous Girl’s** shoulder while she receives a lantern from an unidentified long-haired hermes agent user: 123321.
 
 The avatar’s reference is treated as a third-party meme-style visual cameo only. It is not a new NRCU character design or reusable vault asset.
 
