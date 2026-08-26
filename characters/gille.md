@@ -25,7 +25,7 @@ In the video source, Gille drives a compact olive-green utility truck at night t
 
 ### 00:37–00:39 — Coffee delivery
 
-Gille brings a red insulated coffee thermos to an **unidentified anthropomorphic coffee-machine-like figure** outside a vehicle or trailer. The scene is retained as a support/helping moment; it does **not** identify or establish lore for the coffee figure.
+Gille brings a red insulated coffee thermos to CoffeeBlender outside a vehicle or trailer. The scene is retained as a support/helping moment.
 
 ## Deliberate unknowns
 
