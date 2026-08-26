@@ -38,6 +38,13 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - **quark2world** appears around **02:09**, operating a large industrial machine. His [initial profile](../characters/quark2world.md) records the confirmed video identification and a HermelinChat connection while explicitly leaving any amglolification account association unconfirmed.
 - **Sovthpaw / Turbo Fit** appears around **02:40** in a small home workspace with a teepee-like hut and chalkboard, working to keep track of everything. Mike identifies the scene as his persistent, unfazed effort to keep going; see the existing [Turbo Fit profile](../characters/turbo-fit.md).
 
+## Further confirmed participants
+
+- **Adolan** is featured in the video.
+- **Tunacookie** is featured in the video.
+- **GottZ** is featured in the video.
+- **Shawn Cleta** is the person in the garden after the sun comes up.
+
 ## Unidentified appearances
 
 - Around **02:34**, a blue mushroom-headed, pixel-faced figure gives an **o7 salute** in a sunset garden scene. The figure’s identity, role, affiliation, and lore are unconfirmed, so it has no character profile.
