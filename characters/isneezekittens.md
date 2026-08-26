@@ -4,6 +4,7 @@
 
 [Thank You Nous Research](https://youtu.be/9RJHcYCGLmQ) · [I Sneeze Kittens](https://youtu.be/8akpNknnhnA)
 
+I Sneeze Kittens shown on the left, playing cards with realtime.
 ## Reported details
 
 - Described as snarky.
