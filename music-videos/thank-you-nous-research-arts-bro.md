@@ -44,14 +44,10 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - **Adolan** is featured in the video.
 - **Tunacookie** is featured in the video.
 - **GottZ** is featured in the video.
-- **Shawn Cleta** is the person in the garden after the sun comes up.
+- **Shawn Cleta** is the person in the garden after the sun comes up and the blue pixel-faced figure giving an **o7 salute** around **02:34**.
 - **Witcheer** is the duck communicating with **Kainan** on a screen.
 - **tdamre** is the masked person.
 - **Fleety** is the person in the suit with empty pockets.
-
-## Unidentified appearances
-
-- Around **02:34**, a blue mushroom-headed, pixel-faced figure gives an **o7 salute** in a sunset garden scene. The figure’s identity, role, affiliation, and lore are unconfirmed, so it has no character profile.
 
 ---
 
