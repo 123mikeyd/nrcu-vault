@@ -1,5 +1,7 @@
 # Don Piedro
 
+![Don Piedro — Hermes Biggest Fanboy](../images/don-piedro-hermes-biggest-fanboy.png)
+
 > **Community cameo — initial visual reference**
 
 ## Confirmed appearance
