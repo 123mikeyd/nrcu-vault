@@ -16,7 +16,6 @@ Mike identifies the figure in [“Thank You Nous Research” by Arts Bro](../mus
 
 Official Hermes documentation credits **@quark2world** with custom skins for the HermelinChat GUI. The public YouTube channel **amglolification** hosts both a HermelinChat video and “Tekpunk — One More Prompt | Hackathon Fuel.”
 
-**Important:** these sources establish a HermelinChat/community connection, but they do **not** prove that quark2world and amglolification are the same account or person. That association remains unconfirmed in this archive.
 
 ## Deliberate unknowns
 
