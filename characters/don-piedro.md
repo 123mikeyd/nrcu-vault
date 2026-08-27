@@ -11,14 +11,14 @@ Don Piedro appears in [“Thank You Nous Research” by Arts Bro](../music-video
 ### Visible design anchors
 
 - Brown teddy-bear character
-- White-and-cobalt armored outfit with yellow accents
+- White-and-Blue/Cobalt armored outfit with gold accents (Saiyan Prince Amromr)
 - Red mechanical/visor-like eye piece
 - Determined expression
 - High-speed, anime-inspired presentation
 
 ## Scene context
 
-Two unidentified community members race go-karts in the same sequence. Don Piedro zooms through the scene; those two racers remain unnamed because their identities are not yet confirmed.
+Two community members race go-karts (Tunacookie and GottZ.) Don Piedro zooms through the scene; those two racers are left in the dust as Don Pedro zooms past them. 
 
 ## Deliberate unknowns
 
