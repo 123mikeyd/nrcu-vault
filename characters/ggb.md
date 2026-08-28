@@ -6,7 +6,7 @@
 
 ## Brief description
 
-GGB is a small, translucent green gummy bee with a glossy jelly-like body, delicate wings, curled antennae, and a lightning-bolt emblem. In his introduction, a drop of golden honey wakes him beside a riverbank. His botanical goo is shown as a gentle, growth-promoting magic for nearby flowers.
+GGB is a small, translucent green gummy bee with a glossy jelly-like body, delicate wings, curled antennae, and a strange emblem on it's back. In his introduction, a drop of golden honey wakes him beside a riverbank. His botanical goo is shown as a gentle, growth-promoting magic for nearby flowers.
 
 ## Introduction
 
