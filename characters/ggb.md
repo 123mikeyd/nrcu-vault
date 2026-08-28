@@ -16,7 +16,7 @@ Watch [*GGB Introduction* on YouTube](https://youtu.be/YSkovtkyOmg).
 
 - **Source:** [*GGB Introduction*](https://youtu.be/YSkovtkyOmg)
 - **Image:** `ggb-reference-02.png` — uncropped frame preserved from the supplied source video.
-- **Visible anchors:** translucent green gummy body, lightning-bolt emblem, curled antennae, clear wings, golden honey drop, and riverbank setting.
+- **Visible anchors:** translucent green gummy body, yellow-black three sided emblem on back (perhaps warning or a radioactive symbol), curled antennae, clear wings, goo dripping from mouth and a single yellow stripe.
 
 ## Deliberate unknowns
 
