@@ -1,6 +1,5 @@
-# 🗡️ sudo-nightwing — The Compact Shadow
+# 🗡️ sudo-nightwing 
 
-> A fan-inspired ally who moves when the Citadel needs an extra pair of hands.
 
 ## Core Stats
 
@@ -14,10 +13,9 @@
 
 ## Visual Description
 
-sudo-nightwing is a shorter, less-athletically built fan-inspired counterpart to the famous blue-masked comic archetype—not that character himself. He has **full, dense dark-brown curls with a rounded silhouette**, an angular blue eye mask, and a bold dark-brown Magnum P.I.-style mustache. His signature weapon is his cool **nijato** sword.
+sudo-nightwing is a fan-inspired counterpart to the famous blue-masked comic archetype—not that character himself. He has **full, dense dark-brown curls with a rounded silhouette**, an angular blue eye mask, and a bold dark-brown Magnum P.I.-style mustache. His signature weapon is his sword.
 
-He can carry a masked-hero silhouette and blue-mask energy, but he is never presented as DC's Dick Grayson, Robin, or Batman's former partner.
-
+He can carry a masked-hero silhouette and blue-mask energy, but he is never presented as DC's Dick Grayson, or Robin.
 ## What He Has Done for Nous Research
 
 His public GitHub work shows a substantial technical contribution record across Nous Research repositories:
@@ -25,11 +23,11 @@ His public GitHub work shows a substantial technical contribution record across 
 - GitHub's commit search attributes **141 commits** to `samherring99` across the NousResearch organization.
 - Among the first 100 returned public commit results: **46** are in `tinker-atropos`, **34** in `smc-inference-server`, **17** in `neural-steering`, and **3** in `atropos`.
 - The visible commit history includes work around SMC inference-server load balancing, GPU-count robustness, Docker setup, examples, cleanup, and documentation; it also includes Tinker/Atropos integration documentation.
-- He has **3** visible commits in `NousResearch/hermes-agent`, covering project-note and status-tracker updates.
+- He has several visible commits in `NousResearch/hermes-agent`, covering project-note and status-tracker updates.
 
 ## Citadel Defense Role
 
-When the incoming attacks slip through Teknium's hologram, sudo-nightwing is one of the rapid defenders operating inside the projection. He uses speed, his nijato, and technical instincts to help intercept the barrage while the Shiba super-doge handles the aerial impacts.
+When the incoming attacks slip through Teknium's hologram, sudo-nightwing is one of the rapid defenders operating inside the projection. He uses speed, his sword, and technical instincts to help intercept the barrage while the Shiba super-doge handles the aerial impacts.
 
 ## Sources
 
