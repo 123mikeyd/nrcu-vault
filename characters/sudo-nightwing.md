@@ -13,7 +13,7 @@
 
 ## Visual Description
 
-sudo-nightwing is a fan-inspired counterpart to the famous blue-masked comic archetype—not that character himself. He has **full, dense dark-brown curls with a rounded silhouette**, an angular blue eye mask, and a bold dark-brown Magnum P.I.-style mustache. His signature weapon is his sword.
+sudo-nightwing is a fan-inspired counterpart to the famous blue-masked comic archetype—not that character himself. He has **full, dense dark-brown curls**, an angular blue eye mask, and a bold dark-brown Magnum P.I.-style mustache. His signature weapon is his sword.
 
 He can carry a masked-hero silhouette and blue-mask energy, but he is never presented as DC's Dick Grayson, or Robin.
 ## What He Has Done for Nous Research
