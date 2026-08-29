@@ -16,11 +16,11 @@ Jeffrey Quesnelle’s public site identifies him as a co-founder and CTO of Nous
 
 ## Archive reference
 
-The NRCU curator identifies **“The Emo Zilla”** / **“Jeff the minion guy”** as a community nickname/reference for Jeffrey Quesnelle.
+The NRCU curator identifies **“The Emo Zilla”** / **“Emo”** as a community nickname/reference for Jeffrey Quesnelle.
 
 ## Visual-reference boundary
 
-A user-supplied Minion image is a third-party visual reference associated by the archive curator with the nickname. It is **not** official character art, NRCU-owned artwork, canon artwork, or a reusable vault asset. The image is deliberately not stored in this repository.
+A user-supplied Minion image is a third-party visual reference associated by the archive curator. It is **not** official character art, NRCU-owned artwork, canon artwork, or a reusable vault asset. The image is deliberately not stored in this repository.
 
 ## Deliberate unknowns
 
