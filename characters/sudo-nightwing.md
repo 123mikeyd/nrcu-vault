@@ -8,7 +8,7 @@
 | **Callsign** | sudo-nightwing |
 | **Role** | Systems ally / rapid-response defender |
 | **Focus** | AI/ML, big-data systems, software engineering |
-| **Signature Item** | Nijato sword |
+| **Signature Item** | Ninjato sword |
 | **Public Profile** | [samherring99 on GitHub](https://github.com/samherring99) |
 
 ## Visual Description
