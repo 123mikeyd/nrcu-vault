@@ -31,6 +31,10 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 | ✨ [Tinuviel](./characters/tinuviel.md) | Sentinel / Guide | None (Wields Influence) | Open Source Alliance |
 | 👁️ [Sidbin](./characters/sidbin.md) | Scout / Analyst | None (Carries Secrets) | Unknown |
 
+### Public-profile references
+
+- [Jeffrey Quesnelle (Emozilla)](./characters/emozilla.md) — public AI-research identity; recorded separately from fictional squad canon.
+
 ---
 
 ## 🎨 Story Scenes
