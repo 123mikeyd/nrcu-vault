@@ -1,2 +1,7 @@
-# Images are stored directly in git (not LFS)
-# Individual files are under 5MB each, well within GitHub limits
+# Media is stored directly in git; keep individual files below GitHub's 100 MB limit.
+*.png binary -diff
+*.jpg binary -diff
+*.jpeg binary -diff
+*.mp4 binary -diff
+*.wav binary -diff
+*.flac binary -diff
