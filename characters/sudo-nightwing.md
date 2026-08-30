@@ -16,6 +16,11 @@
 sudo-nightwing is a fan-inspired counterpart to the famous blue-masked comic archetype—not that character himself. He has **full, dense dark-brown curls**, an angular blue eye mask, and a bold dark-brown Magnum P.I.-style mustache. His signature weapon is his sword.
 
 He can carry a masked-hero silhouette and blue-mask energy, but he is never presented as DC's Dick Grayson, or Robin.
+
+## Featured Video
+
+- [**Sudo intro** — An introduction to Nous Research's “Sudo-Nightwing”](https://youtu.be/2AA4EL2LOiw)
+
 ## What He Has Done for Nous Research
 
 His public GitHub work shows a substantial technical contribution record across Nous Research repositories:
