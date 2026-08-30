@@ -12,11 +12,15 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 
 | Directory | Contents |
 |-----------|----------|
-| [`characters/`](./characters) | Individual character reference sheets and lore |
+| [`characters/`](./characters) | Character lore, roles and canon notes |
+| [`assets/`](./assets) | Supplied character references and reusable generated variations |
 | [`scenes/`](./scenes) | Illustrated story scenes from the NRCU saga |
+| [`productions/`](./productions) | Storyboards, selected source takes, audio and finished videos |
 | [`music-videos/`](./music-videos) | Community music-video productions, credits, and viewing links |
+| [`pipeline/`](./pipeline) | Lightweight generation workflow and reproducible examples |
+| [`docs/`](./docs) | Asset intake and production tooling references |
 | [`squad/`](./squad) | Full squad roster, stats, and team dossier |
-| [`images/`](./images) | Original artwork files |
+| [`images/`](./images) | Original artwork files retained for existing pages |
 
 ---
 
@@ -46,13 +50,19 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 
 ---
 
+## 🎞️ Featured Production
+
+- [Teknium Portal Sequence](./productions/teknium-portal-sequence/) — controlled H3 tests, an initial continuity proof and the current eight-shot revision.
+
+---
+
 ## 🎵 Music Videos
 
 1. [Thank You Nous Research](./music-videos/thank-you-nous-research-arts-bro.md) — A community fan-made video by Arts Bro ([watch on YouTube](https://youtu.be/9RJHcYCGLmQ))
 2. [Tekpunk — One More Prompt](./music-videos/tekpunk-one-more-prompt.md) — Hackathon fuel by amglolification for Nous Hackathon #2 ([watch on YouTube](https://youtu.be/1hysj5oTYSw))
 3. [Hermes SR72](./music-videos/hermes-sr72.md) — An arts-dept compilation made with Hermes Agent, Arts Bro, Sahil, and amglolification ([watch on YouTube](https://youtu.be/wNITra1sT-M))
 
-Videos are linked from their production pages instead of stored as raw MP4s, so the vault stays quick to clone and easy to preserve.
+Community releases remain linked from their production pages. Generated NRCU development projects may also keep selected source takes and final exports under `productions/` when each file stays within GitHub's limits.
 
 ---
 

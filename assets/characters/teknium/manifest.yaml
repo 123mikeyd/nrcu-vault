@@ -1,0 +1,16 @@
+id: teknium-production-assets
+character: teknium
+status: alternate-production-interpretation
+contributors:
+  - Sahil-SS9
+source:
+  file: source/teknium-character-sheet.jpeg
+  type: supplied-character-sheet
+variations:
+  directory: variations
+  image_backend: openai-codex/gpt-image-2-medium
+  reference_conditioned: true
+  created: 2026-08-30
+notes:
+  - Generated variations preserve the supplied sheet's green hair, red angular eye piece, tactical clothing and console.
+  - See README.md for the current canon difference.

@@ -1,0 +1,71 @@
+{
+  "output": "productions/teknium-portal-sequence/v2/final.mp4",
+  "shots": [
+    [
+      "shot-01-entry.mp4",
+      0.0,
+      5.0
+    ],
+    [
+      "shot-02-boot-stop.mp4",
+      1.0,
+      1.75
+    ],
+    [
+      "shot-03-console-swipe.mp4",
+      0.3,
+      4.75
+    ],
+    [
+      "shot-04-visor-flash.mp4",
+      1.5,
+      1.5
+    ],
+    [
+      "shot-05-energy-pulse.mp4",
+      0.0,
+      3.25
+    ],
+    [
+      "shot-06-system-cascade.mp4",
+      0.5,
+      3.75
+    ],
+    [
+      "shot-07-portal-open.mp4",
+      0.5,
+      3.25
+    ],
+    [
+      "shot-08-portal-leap.mp4",
+      0.0,
+      5.0
+    ]
+  ],
+  "flash_seconds": 0.083,
+  "end_hold_seconds": 0.75,
+  "voice_start_seconds": 7.75,
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "29.100000",
+      "size": "19366533"
+    }
+  }
+}

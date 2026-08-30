@@ -1,0 +1,8 @@
+integrated_multimodal_description:
+[Shot 1] Preserve Teknium's exact face, spiky turbo-green hair, crimson angular eye visor, dark green tactical jacket, black strapped cargo trousers, boots, gloves, lean build, and rectangular black-and-green console from the first frame. Teknium stands calmly and breathes naturally. His hair tips and jacket fabric move slightly in a light ventilation breeze while his console remains at his side. The camera performs a slow Push In. Movement quality: sustained, light, direct, and bound. No one speaks.
+
+overall_soundscape:
+Quiet industrial room tone, a soft ventilation breeze, subtle fabric movement, and a restrained electronic hum from the console. No dialogue.
+
+non_diegetic_music:
+N/A

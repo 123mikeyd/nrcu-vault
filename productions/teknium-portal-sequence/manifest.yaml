@@ -1,0 +1,25 @@
+id: teknium-portal-sequence
+status: development
+characters:
+  - teknium
+contributors:
+  - Sahil-SS9
+versions:
+  v1:
+    final: v1/final.mp4
+    duration_seconds: 23.8
+  v2:
+    final: v2/final.mp4
+    duration_seconds: 29.1
+    resolution: 1280x720
+    fps: 24
+pipeline:
+  keyframes: openai-codex/gpt-image-2-medium
+  video:
+    base: MiniMax-H3-FL2VA-pruned-INT8-ConvRot
+    preview: MiniMax-H3-FastH3-Preview-LoRA-v0.2
+    turbo: MiniMax-H3-Turbo-v4-step600-EMA
+  music: MiniMax-Music-3-INT8-ConvRot
+  narration: Kokoro-82M/bm_fable
+  mastering: ffmpeg-loudnorm
+model_weights_included: false

@@ -35,3 +35,10 @@ Teknium is the squad's green-haired leader. His spiky hair carries visible leafa
 - **Hermes Command Staff:** A tall staff associated with the squad
 - **Glowing Tablet:** Displays green schematics, maps, and strategic data
 - **NR Patches:** Nous Research insignia on jacket shoulders
+
+## Production Assets
+
+- [Teknium source sheet and generated variations](../assets/characters/teknium/)
+- [Teknium Portal Sequence](../productions/teknium-portal-sequence/)
+
+The current generated production pack uses a red angular eye piece that differs from the connected triangular shades described above. It is preserved as an alternate production interpretation rather than silently changing canon.

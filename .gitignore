@@ -1,0 +1,11 @@
+# Local generation/runtime state
+.venv/
+__pycache__/
+*.pyc
+.cache/
+models/
+vendor-staging/
+outputs/
+*.tmp
+*.log
+.DS_Store

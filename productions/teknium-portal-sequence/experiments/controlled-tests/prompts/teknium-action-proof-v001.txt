@@ -1,0 +1,8 @@
+integrated_multimodal_description:
+[Shot 1] Preserve Teknium's exact face, spiky turbo-green hair, crimson angular eye visor, dark green tactical jacket, black strapped cargo trousers, boots, gloves, lean build, and rectangular black-and-green console from the first frame. Teknium presses one control on the console with his right index finger. A single controlled green holographic pulse expands around the console, reaches full brightness, then stabilises. His stance stays grounded and anatomically clear. The camera remains Static. Movement quality: strong, direct, sustained, and bound. No one speaks.
+
+overall_soundscape:
+Low industrial ambience, one tactile control click, a rising electronic charge, and a clean resonant energy pulse. No dialogue.
+
+non_diegetic_music:
+N/A

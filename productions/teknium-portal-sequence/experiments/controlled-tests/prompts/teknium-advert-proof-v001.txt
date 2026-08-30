@@ -1,0 +1,8 @@
+integrated_multimodal_description:
+[Shot 1] Preserve Teknium's exact face, spiky turbo-green hair, crimson angular eye visor, dark green tactical jacket, black strapped cargo trousers, boots, gloves, lean build, and rectangular black-and-green console from the first frame. Teknium raises the console slightly into a confident presentation pose as the green portal behind him brightens in one smooth concentric wave. His clothing and silhouette remain unchanged. The camera performs a slow Pull Out, preserving the empty campaign space on the right. Movement quality: sustained, strong, direct, and bound. No one speaks.
+
+overall_soundscape:
+Deep command-deck ambience, a restrained console hum, one expanding portal resonance, and a soft final impact. No dialogue.
+
+non_diegetic_music:
+A minimal cinematic synth swell rises once with the portal and resolves cleanly at the final pose.
