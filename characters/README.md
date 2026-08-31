@@ -11,6 +11,7 @@ This is the complete alphabetical index of NRCU character and community-particip
 - [Heartbreaker (Brooklyn)](./heartbreaker.md)
 - [Hermes User: 123321](./hermes-user-123321.md)
 - [I Sneeze Kittens](./isneezekittens.md)
+- [Nous Girl](./nous-girl.md)
 - [quark2world](./quark2world.md)
 - [Sidbin — Mirror Shade](./sidbin.md)
 - [sudo-nightwing](./sudo-nightwing.md)
