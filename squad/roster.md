@@ -1,4 +1,4 @@
-# 🛡️ Hermes Agent Squad — Full Roster
+# 🛡️ Hermes Agent Squad —
 
 ![Squad Roster](../images/squad-roster.png)
 
