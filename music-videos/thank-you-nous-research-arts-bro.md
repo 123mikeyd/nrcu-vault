@@ -45,7 +45,7 @@ A community fan-made music video celebrating Nous Research. The source video is 
 - **Tunacookie** is featured in the video.
 - **GottZ** is featured in the video.
 - **Shawn Cleta** is the person in the garden after the sun comes up and the blue pixel-faced figure giving an **o7 salute** around **02:34**.
-- **Witcheer** is the duck communicating with **Kainan** on a screen.
+- **Witcheer** is the duck communicating with **Kainan** on a screen. They are separate community members; see [Witcheer’s character-sheet profile](../characters/witcheer.md). The exact timestamp has not yet been recorded.
 - **tdamre** is the masked person.
 - **Fleety** is the person in the suit with empty pockets.
 

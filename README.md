@@ -12,7 +12,7 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 
 | Directory | Contents |
 |-----------|----------|
-| [`characters/`](./characters) | Individual character reference sheets and lore |
+| [`characters/`](./characters/README.md) | Complete character index, reference sheets, and evidence-bounded profiles |
 | [`scenes/`](./scenes) | Illustrated story scenes from the NRCU saga |
 | [`music-videos/`](./music-videos) | Community music-video productions, credits, and viewing links |
 | [`squad/`](./squad) | Full squad roster, stats, and team dossier |
@@ -71,6 +71,12 @@ Videos are linked from their production pages instead of stored as raw MP4s, so 
 **Motto:** *We Build. We Share. We Never Surrender.*
 
 **Tagline:** *Powering Open Freedom. Building What's Next.*
+
+---
+
+## Content Notice
+
+The NRCU is an unofficial fan-made community project created for fun. See the simple [Content Notice](./CONTENT-NOTICE.md) for artwork and contribution rights.
 
 ---
 
