@@ -6,7 +6,7 @@
 
 ## Confirmed identity and appearance
 
-The archive owner identifies **Witcheer** as the anthropomorphic duck communicating with **Kainan** on a screen in [*Thank You Nous Research* by Arts Bro](../music-videos/thank-you-nous-research-arts-bro.md). Witcheer and Kainan are separate community members; Witcheer is the duck in that exchange.
+The archive owner identifies **Witcheer** as the anthropomorphic duck communicating with **Kainan** on a screen in [*Thank You Nous Research* by Arts Bro](../music-videos/thank-you-nous-research-arts-bro.md). Witcheer and Kainan are separate members; Witcheer is the duck in that exchange, Kainan is the screen. 
 
 The exact timestamp of the appearance has not yet been recorded.
 
