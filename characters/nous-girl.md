@@ -2,7 +2,11 @@
 
 ![Nous Girl fighting for open source](../images/nous-girl-fighting-for-open-source.png)
 
-> **Open-source fighter — confirmed scene identification**
+> **The girl from the Nous Research logo — open-source fighter**
+
+## Confirmed identity
+
+When the archive owner refers to **Nous Girl**, he means the girl represented in the **Nous Research logo**. Nous Girl is not Heartbreaker/Brooklyn.
 
 ## Confirmed scene
 
