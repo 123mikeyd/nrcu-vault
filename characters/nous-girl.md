@@ -33,7 +33,7 @@ Four monochrome studies explore a glossy dark bob, a headband, collared clothing
 
 ![Nous Girl headphone and expression studies](../images/nous-girl-headphone-expression-studies.png)
 
-This sheet shows a glossy black bob with upward curls abd straight bangs, large over-ear headphones, a white collared shirt beneath a dark sleeveless layer, a small pendant, and several expression studies. The final panel adds cyan eyes and abstract blue effects that emphasize the curls. (Data Mane)
+This sheet shows a glossy black bob with upward curls and straight bangs, large over-ear headphones, a white collared shirt beneath a dark sleeveless layer, a small pendant, and several expression studies. The final panel adds cyan eyes and abstract blue effects that emphasize the curls. (Data Mane)
 
 ## Other confirmed appearance
 
