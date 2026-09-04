@@ -1,26 +1,24 @@
 # Nous Girl
 
-![Nous Girl fighting for open source](../images/nous-girl-fighting-for-open-source.png)
+![Nous Girl neutral portrait](../images/nous-girl-reference.png)
 
-> **The girl from the Nous Research logo — open-source fighter**
+> **The girl from the Nous Research logo**
 
 ## Confirmed identity
 
 When the archive owner refers to **Nous Girl**, he means the girl represented in the **Nous Research logo**. Nous Girl is not Heartbreaker/Brooklyn.
 
-## Confirmed scene
+## Current character reference
 
-The archive owner identifies the woman in this scene as **Nous Girl**, fighting for open source against an **unidentified masked man**. The image does not establish the masked man’s identity, affiliation, or objective.
+The archive owner selected this neutral grayscale portrait as the current character reference for **Nous Girl**.
 
-### Visible scene anchors
+### Visible anchors
 
-- Nous Girl has a short black bob with straight bangs.
-- She wears large round glasses with vivid purple-blue-pink lenses and black over-ear headphones.
-- Her black outfit has bright-green lining, numerous straps and buckles, and a white winged emblem.
-- She meets the masked man’s attack at close range beside a shattered glass wall.
-- The masked man wears a black hood, face covering, gloves, tactical layers, and utility gear.
-- Drones cast blue beams across a neon-lit futuristic city.
-- Visible environmental text includes **TEKNIUM**, **NOUS GIRL**, **HERMES AGENTS UNITED**, and **ORCHESTRATE RESPONSIBLY.**
+- Grayscale, pencil-style head-and-shoulders portrait
+- Large expressive eyes and a slight smile
+- Long, layered hair with bangs and a small hair detail near the crown
+- Simple clothing contours against a plain background
+- No combat, weaponry, or environmental scene is depicted
 
 ## Other confirmed appearance
 
@@ -28,7 +26,5 @@ Nous Girl appears around **02:00** in [*Thank You Nous Research* by Arts Bro](..
 
 ## Deliberate unknowns
 
-- The masked man’s identity and affiliation
-- Where this confrontation falls in NRCU chronology
-- The cause and outcome of the fight
-- Whether the action-scene outfit is Nous Girl’s standard clothing or specific to this scene
+- Nous Girl’s exact role, abilities, and wider NRCU chronology
+- Whether the partial clothing visible in the portrait represents her standard outfit
