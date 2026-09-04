@@ -6,7 +6,7 @@
 
 ## Confirmed identity
 
-When the archive owner refers to **Nous Girl**, he means the girl represented in the **Nous Research logo**. Nous Girl is not Heartbreaker/Brooklyn.
+When the archive owner refers to **Nous Girl**, he means the girl represented in the **Nous Research logo**. Nous Girl is not a real person.
 
 ## Current character reference
 
@@ -18,7 +18,6 @@ The archive owner selected this neutral grayscale portrait as the current charac
 - Large expressive eyes and a slight smile
 - Long, layered hair with bangs and a small hair detail near the crown
 - Simple clothing contours against a plain background
-- No combat, weaponry, or environmental scene is depicted
 
 ## Additional visual references
 
@@ -34,7 +33,7 @@ Four monochrome studies explore a glossy dark bob, a headband, collared clothing
 
 ![Nous Girl headphone and expression studies](../images/nous-girl-headphone-expression-studies.png)
 
-This sheet shows a glossy black bob with straight bangs, large over-ear headphones, a white collared shirt beneath a dark sleeveless layer, a small pendant, and several expression studies. The final panel adds cyan eyes and abstract blue effects as a visual variation.
+This sheet shows a glossy black bob with upward curls abd straight bangs, large over-ear headphones, a white collared shirt beneath a dark sleeveless layer, a small pendant, and several expression studies. The final panel adds cyan eyes and abstract blue effects that emphasize the curls. (Data Mane)
 
 ## Other confirmed appearance
 
@@ -45,3 +44,5 @@ Nous Girl appears around **02:00** in [*Thank You Nous Research* by Arts Bro](..
 - Nous Girl’s exact role, abilities, and wider NRCU chronology
 - Whether the partial clothing visible in the portrait represents her standard outfit
 - Which details in the supplementary studies are standard design features rather than exploratory variations
+- She just needs the correct hair and the large headphones. 
+-She appears to be anime 
