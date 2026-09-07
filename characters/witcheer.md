@@ -6,7 +6,7 @@
 
 ## Confirmed identity and appearance
 
-The archive owner identifies **Witcheer** as the anthropomorphic duck communicating with **Kainan** on a screen in [*Thank You Nous Research* by Arts Bro](../music-videos/thank-you-nous-research-arts-bro.md). Witcheer is a community member. Kainan is on the screen, represented as a simple black and white logo. 
+The archive owner identifies **Witcheer** as the anthropomorphic duck communicating with **Kainan** in [*Thank You Nous Research* by Arts Bro](../music-videos/thank-you-nous-research-arts-bro.md). Witcheer is a community member; Kainan appears on the screen as a simple black and white logo.
 
 The appearance is at the one minute mark.
 
@@ -38,8 +38,12 @@ The sheet describes Witcheer as a slick, cunning, charismatic trickster who turn
 
 *Witcheer character reference sheet, provided for NRCU archival use.*
 
+## Public handles
+
+- X: [@witcheer](https://x.com/witcheer)
+- GitHub: [notwitcheer](https://github.com/notwitcheer), home of [hermes-recipes](https://github.com/notwitcheer/hermes-recipes), community setups for Hermes Agent
+
 ## Deliberate unknowns
 
 - Is he really a duck? 
-- Public handle or profile links
-- Additional affiliations or story history beyond what the Duck do. 
+- Additional affiliations or story history beyond what the Duck does.
