@@ -4,6 +4,12 @@
 
 > **Community member — confirmed appearance**
 
+## 3D Model
+
+**[Download Witcheer — rigged 3D model (ZIP)](https://github.com/123mikeyd/nrcu-vault/releases/download/rigged-models-v1/Witcheer-rigged.zip)**
+
+Includes a GLB with skeleton, skin weights, embedded textures, and animation clips. Unzip and import the GLB into Blender or another glTF-compatible application. [Browse all four model downloads](https://github.com/123mikeyd/nrcu-vault/releases/tag/rigged-models-v1).
+
 ## Confirmed identity and appearance
 
 The archive owner identifies **Witcheer** as the anthropomorphic duck communicating with **Kainan** on a screen in [*Thank You Nous Research* by Arts Bro](../music-videos/thank-you-nous-research-arts-bro.md). Witcheer is a community member. Kainan is on the screen, represented as a simple black and white logo. 

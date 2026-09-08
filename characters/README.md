@@ -3,6 +3,7 @@
 This is the complete alphabetical index of NRCU character and community-participant profiles. Inclusion here does **not** by itself establish squad membership, allegiance, or fictional canon; each profile records its own evidence and status.
 
 - [coffeeblender](./coffeeblender.md)
+- [Doge Man](./doge-man.md)
 - [Don Piedro](./don-piedro.md)
 - [ee.dd](./ee-dd.md)
 - [Jeffrey Quesnelle (Emozilla)](./emozilla.md)
