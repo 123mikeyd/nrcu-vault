@@ -10,7 +10,6 @@ Doge Man's established game role is a close-range brawler. His signature attack 
 
 - **Fighting style:** close-range brawling, with punches and an uppercut represented in the shared animation library.
 - **Signature move:** a flight-like, sideways torpedo charge.
-- **Relationship to Teknium:** his hype man and wingman.
 
 These details describe established gameplay and animation direction, not a complete origin story.
 
