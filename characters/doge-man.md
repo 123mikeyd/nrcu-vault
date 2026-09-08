@@ -8,7 +8,7 @@ Doge Man's established game role is a close-range brawler. His signature attack 
 
 ## Established Character Direction
 
-- **Fighting style:** close-range brawling, with punches and an uppercut represented in the shared animation library.
+- **Fighting style:** close-range brawling.
 - **Signature move:** a flight-like, sideways torpedo charge.
 
 These details describe established gameplay and animation direction, not a complete origin story.
