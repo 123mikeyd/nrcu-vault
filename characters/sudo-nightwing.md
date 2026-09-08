@@ -1,21 +1,20 @@
-# 🗡️ sudo-nightwing 
+# 🎧 sudo-nightwing
 
+sudo-nightwing is a mustached DJ from the 1970s who somehow time-traveled to the present day. He wears a domino mask. How he got here is unexplained—that's the core of his character.
 
 ## Core Stats
 
 | Attribute | Value |
 | --- | --- |
 | **Callsign** | sudo-nightwing |
-| **Role** | Systems ally / rapid-response defender |
+| **Role** | DJ from the 1970s, now in the present day |
 | **Focus** | AI/ML, big-data systems, software engineering |
 | **Signature Item** | Ninjato sword |
 | **Public Profile** | [samherring99 on GitHub](https://github.com/samherring99) |
 
 ## Visual Description
 
-sudo-nightwing is a fan-inspired counterpart to the famous blue-masked comic archetype—not that character himself. He has **full, dense dark-brown curls**, an angular blue eye mask, and a bold dark-brown Magnum P.I.-style mustache. His signature weapon is his sword.
-
-He can carry a masked-hero silhouette and blue-mask energy, but he is never presented as DC's Dick Grayson, or Robin.
+He has **full, dense dark-brown curls**, a blue domino mask, and a bold dark-brown Magnum P.I.-style mustache. His look reflects his 1970s roots.
 
 ## Featured Video
 
