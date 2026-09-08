@@ -40,6 +40,8 @@ Click a picture to open its character page. These are existing reference images,
 
 **[Browse the complete character index →](./characters/README.md)**
 
+[![3D character lineup in Blender](./images/3d-character-lineup.png)](https://raw.githubusercontent.com/123mikeyd/nrcu-vault/main/images/3d-character-lineup.png)
+
 ---
 
 ## 📂 Vault Contents
