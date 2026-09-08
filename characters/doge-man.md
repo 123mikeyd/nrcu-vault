@@ -1,5 +1,9 @@
 # Doge Man
 
+![Doge Man 3D model preview in a flying pose, wearing a red suit top, blue pants, silver gauntlets, and a golden-yellow cape](../images/doge-man-model-preview.png)
+
+*3D model preview in the viewport.*
+
 > **Brawler — he is the projectile.**
 
 ## Character Overview
