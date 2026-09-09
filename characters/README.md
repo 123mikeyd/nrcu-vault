@@ -1,8 +1,10 @@
 # All Characters
 
-**[Open the searchable visual library](../library/index.html)**
+**[← Back to the front page](../README.md)**
 
-One growing character library with three browsing groups. Every character keeps a permanent page; these groups describe the archive's presentation, not employment or fictional allegiance. Existing lore and primary references stay intact; additional sheets are collected separately.
+Click a name to open the character page. Click **Sheets** for extra art styles. Use **Ctrl+F** (or your browser’s Find command) to find a name.
+
+**[Founders](#founders)** · **[Nous Crew](#nous-crew)** · **[Everyone Else](#contributors--side-characters)**
 
 ## Founders
 

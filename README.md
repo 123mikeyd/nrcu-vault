@@ -6,6 +6,50 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 
 **Open Source for All.**
 
+## Start here
+
+**[Find a character](./characters/README.md)** · **[Download a model](#-download-3d-models)** · **[Watch the videos](#-music-videos)**
+
+Click a character picture below to open their page. For extra art styles, use **Sheets** beside their name in [All Characters](./characters/README.md).
+
+### Founders
+
+<table>
+<tr>
+<td align="center"><a href="./characters/teknium.md"><img src="./images/teknium-leafage-shades.png" alt="Teknium head reference" width="160"><br><strong>Teknium</strong></a></td>
+<td align="center"><a href="./characters/mephisto.md"><img src="./images/mephisto-reference.png" alt="Mephisto reference artwork" width="160"><br><strong>Mephisto</strong></a></td>
+<td align="center"><a href="./characters/emozilla.md"><strong>Emo</strong></a><br>Artwork coming later</td>
+</tr>
+</table>
+
+### Nous Crew
+
+<table>
+<tr>
+<td align="center"><a href="./characters/turbo-fit.md"><img src="./images/turbo-fit-sheet.png" alt="Turbo Fit reference sheet" width="160"><br><strong>Turbo Fit</strong></a></td>
+<td align="center"><a href="./characters/heartbreaker.md"><img src="./images/heartbreaker-sheet.png" alt="Heartbreaker reference sheet" width="160"><br><strong>Heartbreaker</strong></a></td>
+<td align="center"><a href="./characters/gille.md"><img src="./images/coffeeblender-and-gille-thermos.png" alt="Gille and coffeeblender scene reference" width="160"><br><strong>Gille</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/tinuviel.md"><img src="./images/tinuviel-sheet.png" alt="Tinuviel reference sheet" width="160"><br><strong>Tinuviel</strong></a></td>
+<td align="center"><a href="./characters/sidbin.md"><img src="./images/sidbin-sheet.png" alt="Sidbin reference sheet" width="160"><br><strong>Sidbin</strong></a></td>
+</tr>
+</table>
+
+### Everyone Else
+
+Contributors, side characters, and the wider NRCU cast.
+
+<table>
+<tr>
+<td align="center"><a href="./characters/nous-girl.md"><img src="./images/nous-girl-reference.png" alt="Nous Girl sketch reference" width="160"><br><strong>Nous Girl</strong></a></td>
+<td align="center"><a href="./characters/doge-man.md"><img src="./images/doge-man-model-preview.png" alt="Doge Man model preview" width="160"><br><strong>Doge Man</strong></a></td>
+<td align="center"><a href="./characters/witcheer.md"><img src="./images/witcheer-character-sheet.png" alt="Witcheer reference sheet" width="160"><br><strong>Witcheer</strong></a></td>
+</tr>
+</table>
+
+**[See everyone →](./characters/README.md#contributors--side-characters)**
+
 ## 📦 Download 3D Models
 
 Rigged character models with skeletons, skin weights, embedded textures, and animation clips. Download a ZIP, unzip it, and import the GLB into Blender or another glTF-compatible application.
@@ -19,17 +63,20 @@ Rigged character models with skeletons, skin weights, embedded textures, and ani
 
 [Browse the full model release](https://github.com/123mikeyd/nrcu-vault/releases/tag/rigged-models-v1). The existing [Content Notice](./CONTENT-NOTICE.md) applies; no additional license is added.
 
-## 🖼️ Character Gallery
+<details>
+<summary>Earlier gallery and archive details</summary>
+
+## Earlier Character Gallery
 
 ### Explore the NRCU
 
-**[All Characters — searchable visual library](./library/index.html)** · **[Grouped character directory](./characters/README.md)**
+**[All Characters](./characters/README.md)**
 
 - **Founders:** [Teknium](./characters/teknium.md), [Mephisto](./characters/mephisto.md), and [Emo](./characters/emozilla.md).
 - **Nous Crew:** Turbo Fit, Heartbreaker, Gille, Tinuviel, and Sidbin.
 - **Contributors & Side Characters:** the wider cast, with room for everyone as the NRCU grows.
 
-Browse groups are separate from fictional allegiance. Character sheets and alternate styles are linked from the directory; existing primary references remain below. On GitHub, use the grouped directory; the searchable HTML library opens locally and can be hosted later.
+Browse groups are separate from fictional allegiance. Existing references remain below.
 
 Click a picture to open its character page. These are existing reference images, except Doge Man's 3D model preview; gallery inclusion does not establish squad membership. Model downloads are listed separately above.
 
@@ -83,6 +130,8 @@ Click a picture to open its character page. These are existing reference images,
 
 ---
 
+</details>
+
 ## 🎨 Story Scenes
 
 1. [The Campfire](./scenes/campfire.md) — The squad rests under the stars
@@ -102,7 +151,10 @@ Videos are linked from their production pages instead of stored as raw MP4s, so 
 
 ---
 
-## 📊 Squad Stats
+<details>
+<summary>Squad stats and motto</summary>
+
+## Squad Stats
 
 | Stat | Rating |
 |------|--------|
@@ -117,6 +169,8 @@ Videos are linked from their production pages instead of stored as raw MP4s, so 
 **Motto:** *We Build. We Share. We Never Surrender.*
 
 **Tagline:** *Powering Open Freedom. Building What's Next.*
+
+</details>
 
 ---
 
