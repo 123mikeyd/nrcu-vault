@@ -1,5 +1,7 @@
 # Doge Man — Character Sheets
 
+**Doge Man · 123mikeyD · Super Shiba** — [additional sheets catalogued as 123mikeyd](./123mikeyd.md).
+
 [Character profile](../doge-man.md) · [All characters](../README.md) · [Visual library](../../library/index.html)
 
 Supplementary character art from [Sahil’s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse). Existing primary references and character lore remain unchanged. Printed sheet details describe that interpretation, not automatic affiliation or biography.

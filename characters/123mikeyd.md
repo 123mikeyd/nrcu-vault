@@ -1,6 +1,6 @@
-# 123mikeyd
+# 123mikeyD — Doge Man / Super Shiba
 
-**Browse group:** Contributors & Side Characters
+**Nous Crew** · [Open the main Doge Man profile](./doge-man.md)
 
 ![123mikeyd character sheet](../images/character-sheets/123mikeyd/anime.webp)
 
@@ -8,6 +8,6 @@
 
 ## Character reference
 
-123mikeyd is included in the NRCU character library with reference sheets from [Sahil’s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse/tree/15af249624130b7823a151d2390d93ae05ba93de/characters/123mikeyd).
+123mikeyD, Doge Man, and Super Shiba are names for the same NRCU character. This page preserves the earlier art link; the biography and model download are on the [Doge Man profile](./doge-man.md).
 
-Story roles, affiliations, powers, and relationships remain open unless separately established. The browsing group does not assert employment or fictional allegiance.
+The sheets catalogued under this name remain available as alternate interpretations.

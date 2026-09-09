@@ -1,5 +1,7 @@
 # 🎧 sudo-nightwing
 
+**Nous Crew**
+
 sudo-nightwing is a mustached DJ from the 1970s who somehow time-traveled to the present day. He wears a domino mask. How he got here is unexplained—that's the core of his character.
 
 ## Core Stats

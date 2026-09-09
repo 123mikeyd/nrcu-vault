@@ -99,97 +99,6 @@
       "publication_hold": false
     },
     {
-      "id": "123mikeyd",
-      "name": "123mikeyd",
-      "group": "contributors",
-      "profile": "characters/123mikeyd.md",
-      "sheets_page": "characters/sheets/123mikeyd.md",
-      "sheets": [
-        {
-          "style": "anime",
-          "preview": "images/character-sheets/123mikeyd/anime.webp",
-          "sha256": "c94ae0f78bd0c9ed805e93053b344f88bd227edf97020b4a16d4b0c6598d4514",
-          "original_sha256": "b100f860b65f5afc8bd68c7ac22892efb3dbfdc7b856a8f99f063bcb44468224",
-          "original_archive_path": "characters/123mikeyd/styles/anime/123mikeyd__sheet__anime__v01.png",
-          "width": 512,
-          "height": 512
-        },
-        {
-          "style": "chibi",
-          "preview": "images/character-sheets/123mikeyd/chibi.webp",
-          "sha256": "580ed5b35981535bcbf9dba419438b52a747188515c24be24455813d08bfb5a9",
-          "original_sha256": "ff920eb250d580707e35c5005be23ab2a035c9a6a6aea6f5d84d33aec255cf0b",
-          "original_archive_path": "characters/123mikeyd/styles/chibi/123mikeyd__sheet__chibi__v01.png",
-          "width": 512,
-          "height": 512
-        },
-        {
-          "style": "claymation-stop-motion",
-          "preview": "images/character-sheets/123mikeyd/claymation-stop-motion.webp",
-          "sha256": "ba072c04d3d2abf9e2b84b57a73a1d6b60c43a4885a4107b72a6a1ec9aa6feaf",
-          "original_sha256": "b543e91bbff353f1f2c235fcf54d41583a24049817c4ceaa2cf5f5c3e988e4b8",
-          "original_archive_path": "characters/123mikeyd/styles/claymation-stop-motion/123mikeyd__sheet__claymation-stop-motion__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "disney",
-          "preview": "images/character-sheets/123mikeyd/disney.webp",
-          "sha256": "abcaec1496459b29c4a5e26b42777b2969f2a886ba7e9e0e9e48d407534b00e6",
-          "original_sha256": "23795610dae7892fc89d0d841f86ad1fdd24b058710e4a334d9724f647ffdfd2",
-          "original_archive_path": "characters/123mikeyd/styles/disney/123mikeyd__sheet__disney__v01.png",
-          "width": 512,
-          "height": 512
-        },
-        {
-          "style": "gothic",
-          "preview": "images/character-sheets/123mikeyd/gothic.webp",
-          "sha256": "bf844decb0314fb72469d1025023a78273714fa4fc73301fb583b3cfe86f16bd",
-          "original_sha256": "e2d44743b55cd27515c472ef6087b30150e6f237ab2ce859e66aa45b0fec0ac2",
-          "original_archive_path": "characters/123mikeyd/styles/gothic/123mikeyd__sheet__gothic__v01.png",
-          "width": 512,
-          "height": 512
-        },
-        {
-          "style": "hyper-realistic",
-          "preview": "images/character-sheets/123mikeyd/hyper-realistic.webp",
-          "sha256": "002260299c767dac4e1c63d48a9b415e7c6926fa99230dd462a49092e17ddf25",
-          "original_sha256": "20cbbd3d8f6cb226b4f7f419602564c3a103626749c538c734f4c008badd5dfe",
-          "original_archive_path": "characters/123mikeyd/styles/hyper-realistic/123mikeyd__sheet__hyper-realistic__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "ink-pen-sketch",
-          "preview": "images/character-sheets/123mikeyd/ink-pen-sketch.webp",
-          "sha256": "39e6f30539ed279687a54ff7e76b7b7e62addf052db98881592aea0fe7014ac9",
-          "original_sha256": "3c839f3c23935b508df2d9e462c104d7fb9ebadd4f9733bb6220e537e5bdf337",
-          "original_archive_path": "characters/123mikeyd/styles/ink-pen-sketch/123mikeyd__sheet__ink-pen-sketch__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "mecha",
-          "preview": "images/character-sheets/123mikeyd/mecha.webp",
-          "sha256": "006f1a9967cbe3414eae42f381670bccd9a0575e16f2e8795ea564dafe18c2cd",
-          "original_sha256": "0f24867b68c3359f185ae630995c310b3c5fd21f5a3d06ce270817ae8317bd1e",
-          "original_archive_path": "characters/123mikeyd/styles/mecha/123mikeyd__sheet__mecha__v01.png",
-          "width": 512,
-          "height": 512
-        },
-        {
-          "style": "rick-and-morty",
-          "preview": "images/character-sheets/123mikeyd/rick-and-morty.webp",
-          "sha256": "da512e476f2a6b0cf003fd4038d16c5b33b21e79f555834d594f7932702d49c7",
-          "original_sha256": "2f7645dffcc7a226581e6bfec6f4489160a6737c54e801d4db753673d746b9f9",
-          "original_archive_path": "characters/123mikeyd/styles/rick-and-morty/123mikeyd__sheet__rick-and-morty__v01.png",
-          "width": 512,
-          "height": 512
-        }
-      ],
-      "publication_hold": false
-    },
-    {
       "id": "adolan",
       "name": "adolan",
       "group": "contributors",
@@ -556,7 +465,7 @@
     {
       "id": "cthulhu",
       "name": "Cthulhu",
-      "group": "contributors",
+      "group": "crew",
       "profile": "characters/cthulhu.md",
       "sheets_page": "characters/sheets/cthulhu.md",
       "sheets": [
@@ -647,7 +556,7 @@
     {
       "id": "doge-man",
       "name": "Doge Man",
-      "group": "contributors",
+      "group": "crew",
       "profile": "characters/doge-man.md",
       "sheets_page": "characters/sheets/doge-man.md",
       "sheets": [
@@ -731,9 +640,97 @@
           "original_archive_path": "characters/doge-man/styles/rick-and-morty/doge-man__sheet__rick-and-morty__v01.png",
           "width": 1536,
           "height": 1024
+        },
+        {
+          "style": "anime",
+          "preview": "images/character-sheets/123mikeyd/anime.webp",
+          "sha256": "c94ae0f78bd0c9ed805e93053b344f88bd227edf97020b4a16d4b0c6598d4514",
+          "original_sha256": "b100f860b65f5afc8bd68c7ac22892efb3dbfdc7b856a8f99f063bcb44468224",
+          "original_archive_path": "characters/123mikeyd/styles/anime/123mikeyd__sheet__anime__v01.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "style": "chibi",
+          "preview": "images/character-sheets/123mikeyd/chibi.webp",
+          "sha256": "580ed5b35981535bcbf9dba419438b52a747188515c24be24455813d08bfb5a9",
+          "original_sha256": "ff920eb250d580707e35c5005be23ab2a035c9a6a6aea6f5d84d33aec255cf0b",
+          "original_archive_path": "characters/123mikeyd/styles/chibi/123mikeyd__sheet__chibi__v01.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "style": "claymation-stop-motion",
+          "preview": "images/character-sheets/123mikeyd/claymation-stop-motion.webp",
+          "sha256": "ba072c04d3d2abf9e2b84b57a73a1d6b60c43a4885a4107b72a6a1ec9aa6feaf",
+          "original_sha256": "b543e91bbff353f1f2c235fcf54d41583a24049817c4ceaa2cf5f5c3e988e4b8",
+          "original_archive_path": "characters/123mikeyd/styles/claymation-stop-motion/123mikeyd__sheet__claymation-stop-motion__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "disney",
+          "preview": "images/character-sheets/123mikeyd/disney.webp",
+          "sha256": "abcaec1496459b29c4a5e26b42777b2969f2a886ba7e9e0e9e48d407534b00e6",
+          "original_sha256": "23795610dae7892fc89d0d841f86ad1fdd24b058710e4a334d9724f647ffdfd2",
+          "original_archive_path": "characters/123mikeyd/styles/disney/123mikeyd__sheet__disney__v01.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "style": "gothic",
+          "preview": "images/character-sheets/123mikeyd/gothic.webp",
+          "sha256": "bf844decb0314fb72469d1025023a78273714fa4fc73301fb583b3cfe86f16bd",
+          "original_sha256": "e2d44743b55cd27515c472ef6087b30150e6f237ab2ce859e66aa45b0fec0ac2",
+          "original_archive_path": "characters/123mikeyd/styles/gothic/123mikeyd__sheet__gothic__v01.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "style": "hyper-realistic",
+          "preview": "images/character-sheets/123mikeyd/hyper-realistic.webp",
+          "sha256": "002260299c767dac4e1c63d48a9b415e7c6926fa99230dd462a49092e17ddf25",
+          "original_sha256": "20cbbd3d8f6cb226b4f7f419602564c3a103626749c538c734f4c008badd5dfe",
+          "original_archive_path": "characters/123mikeyd/styles/hyper-realistic/123mikeyd__sheet__hyper-realistic__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "ink-pen-sketch",
+          "preview": "images/character-sheets/123mikeyd/ink-pen-sketch.webp",
+          "sha256": "39e6f30539ed279687a54ff7e76b7b7e62addf052db98881592aea0fe7014ac9",
+          "original_sha256": "3c839f3c23935b508df2d9e462c104d7fb9ebadd4f9733bb6220e537e5bdf337",
+          "original_archive_path": "characters/123mikeyd/styles/ink-pen-sketch/123mikeyd__sheet__ink-pen-sketch__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "mecha",
+          "preview": "images/character-sheets/123mikeyd/mecha.webp",
+          "sha256": "006f1a9967cbe3414eae42f381670bccd9a0575e16f2e8795ea564dafe18c2cd",
+          "original_sha256": "0f24867b68c3359f185ae630995c310b3c5fd21f5a3d06ce270817ae8317bd1e",
+          "original_archive_path": "characters/123mikeyd/styles/mecha/123mikeyd__sheet__mecha__v01.png",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "style": "rick-and-morty",
+          "preview": "images/character-sheets/123mikeyd/rick-and-morty.webp",
+          "sha256": "da512e476f2a6b0cf003fd4038d16c5b33b21e79f555834d594f7932702d49c7",
+          "original_sha256": "2f7645dffcc7a226581e6bfec6f4489160a6737c54e801d4db753673d746b9f9",
+          "original_archive_path": "characters/123mikeyd/styles/rick-and-morty/123mikeyd__sheet__rick-and-morty__v01.png",
+          "width": 512,
+          "height": 512
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "aliases": [
+        "123mikeyD",
+        "123mikeyd",
+        "Super Shiba",
+        "Dogeman"
+      ],
+      "primary_reference": "images/doge-man-model-preview.png"
     },
     {
       "id": "don-piedro",
@@ -829,7 +826,7 @@
     {
       "id": "ee-dd",
       "name": "ee.dd",
-      "group": "contributors",
+      "group": "crew",
       "profile": "characters/ee-dd.md",
       "sheets_page": "characters/sheets/ee-dd.md",
       "sheets": [],
@@ -1032,7 +1029,7 @@
     {
       "id": "ggb",
       "name": "GGB \u2014 Gummy Bee",
-      "group": "contributors",
+      "group": "crew",
       "profile": "characters/ggb.md",
       "sheets_page": "characters/sheets/ggb.md",
       "sheets": [],
@@ -1496,7 +1493,7 @@
     {
       "id": "nous-girl",
       "name": "NousGirl",
-      "group": "contributors",
+      "group": "crew",
       "profile": "characters/nous-girl.md",
       "sheets_page": "characters/sheets/nous-girl.md",
       "sheets": [
@@ -2142,7 +2139,7 @@
     {
       "id": "sudo-nightwing",
       "name": "sudo-nightwing",
-      "group": "contributors",
+      "group": "crew",
       "profile": "characters/sudo-nightwing.md",
       "sheets_page": "characters/sheets/sudo-nightwing.md",
       "sheets": [

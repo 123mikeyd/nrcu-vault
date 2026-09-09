@@ -1,5 +1,7 @@
 # Nous Girl
 
+**Nous Crew**
+
 ![Nous Girl neutral portrait](../images/nous-girl-reference.png)
 
 > **The girl from the Nous Research logo**

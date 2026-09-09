@@ -1,5 +1,9 @@
 # Doge Man
 
+**Also known as:** 123mikeyD · Super Shiba
+
+**Nous Crew**
+
 ![Doge Man 3D model preview in a flying pose, wearing a red suit top, blue pants, silver gauntlets, and a golden-yellow cape](../images/doge-man-model-preview.png)
 
 *3D model preview in the viewport.*
@@ -19,7 +23,13 @@ These details describe established gameplay and animation direction, not a compl
 
 ## Story Still to Be Defined
 
-His origin, civilian identity, affiliations, and the source of his abilities have not been established on this page.
+His origin and the source of his abilities remain open.
+
+## Character Art
+
+[Doge Man sheets](./sheets/doge-man.md) · [Sheets catalogued as 123mikeyd](./sheets/123mikeyd.md)
+
+Both collections belong to the same character. Existing file paths are preserved for older links.
 
 ## 3D Model
 

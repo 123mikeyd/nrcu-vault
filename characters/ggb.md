@@ -1,5 +1,7 @@
 # GGB — Gummy Bee
 
+**Nous Crew**
+
 ![GGB waking beside the riverbank](../images/ggb-reference-02.png)
 
 > **Confirmed canon:** GGB is a magical gummy bee. Gummy bees supply ample amounts of goo that promotes botanical growth.

@@ -1,6 +1,6 @@
 # ee.dd
 
-> **Community moderator — initial visual reference**
+> **Nous Crew · Community moderator**
 
 ## Confirmed facts
 
@@ -21,4 +21,4 @@ The archive owner describes ee.dd’s avatar as a landscape that resolves into a
 
 ## Deliberate boundaries
 
-This archive records ee.dd’s community role, video cameo, and the owner-described landscape avatar. Fictional backstory, abilities, and team membership remain open.
+This archive records ee.dd’s Nous Crew membership, community role, video cameo, and the owner-described landscape avatar. Fictional backstory and abilities remain open.

@@ -35,20 +35,21 @@ Click a character picture below to open their page. For extra art styles, use **
 <td align="center"><a href="./characters/sidbin.md"><img src="./images/sidbin-sheet.png" alt="Sidbin reference sheet" width="160"><br><strong>Sidbin</strong></a></td>
 <td align="center"><a href="./characters/witcheer.md"><img src="./images/witcheer-character-sheet.png" alt="Witcheer reference sheet" width="160"><br><strong>Witcheer</strong></a></td>
 </tr>
+<tr>
+<td align="center"><a href="./characters/nous-girl.md"><img src="./images/nous-girl-reference.png" alt="Nous Girl sketch reference" width="160"><br><strong>Nous Girl</strong></a></td>
+<td align="center"><a href="./characters/doge-man.md"><img src="./images/doge-man-model-preview.png" alt="Doge Man model preview" width="160"><br><strong>Doge Man</strong></a></td>
+<td align="center"><a href="./characters/sudo-nightwing.md"><img src="./images/character-sheets/sudo-nightwing/anime.webp" alt="sudo-nightwing reference sheet" width="160"><br><strong>sudo-nightwing</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/ggb.md"><img src="./images/ggb-reference-02.png" alt="GGB reference artwork" width="160"><br><strong>GGB</strong></a></td>
+<td align="center"><a href="./characters/ee-dd.md"><strong>ee.dd</strong></a><br>Landscape avatar image pending</td>
+<td align="center"><a href="./characters/cthulhu.md"><img src="./images/character-sheets/cthulhu/anime.webp" alt="Cthulhu reference sheet" width="160"><br><strong>Cthulhu</strong></a></td>
+</tr>
 </table>
 
 ### Everyone Else
 
-Contributors, side characters, and the wider NRCU cast.
-
-<table>
-<tr>
-<td align="center"><a href="./characters/nous-girl.md"><img src="./images/nous-girl-reference.png" alt="Nous Girl sketch reference" width="160"><br><strong>Nous Girl</strong></a></td>
-<td align="center"><a href="./characters/doge-man.md"><img src="./images/doge-man-model-preview.png" alt="Doge Man model preview" width="160"><br><strong>Doge Man</strong></a></td>
-</tr>
-</table>
-
-**[See everyone →](./characters/README.md#contributors--side-characters)**
+**[Browse contributors and side characters →](./characters/README.md#contributors--side-characters)**
 
 ## 📦 Download 3D Models
 
@@ -73,7 +74,7 @@ Rigged character models with skeletons, skin weights, embedded textures, and ani
 **[All Characters](./characters/README.md)**
 
 - **Founders:** [Teknium](./characters/teknium.md), [Mephisto](./characters/mephisto.md), and [Emo](./characters/emozilla.md).
-- **Nous Crew:** Turbo Fit, Heartbreaker, Gille, Tinuviel, Sidbin, and Witcheer.
+- **Nous Crew:** Turbo Fit, Heartbreaker, Gille, Tinuviel, Sidbin, Witcheer, sudo-nightwing, Nous Girl, GGB, ee.dd, Cthulhu, and Doge Man (123mikeyD / Super Shiba).
 - **Contributors & Side Characters:** the wider cast, with room for everyone as the NRCU grows.
 
 Browse groups are separate from fictional allegiance. Existing references remain below.
