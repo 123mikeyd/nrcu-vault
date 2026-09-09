@@ -22,4 +22,4 @@ Mephisto is included in the NRCU Founders collection. The primary artwork is a p
 
 ![Mephisto with a sword beside a large shadowy monster](../images/mephisto-sword-scene.png)
 
-All four images are preserved uncropped. These scenes are visual references; further story details remain open.
+The girl is determined and pensive, her "demon" that she is friends with now and has practically bonded to her now appears as smooth claw, but also shadow as well. Its face has no wrinkles and is smooth, the brow is not furled, the mouth is not snarling. I am told the "demon" is not Evil but further research is necessary; further story details remain open.
