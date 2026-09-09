@@ -19,6 +19,7 @@ Click a name to open the character page. Click **Sheets** for extra art styles. 
 - [Gille](./gille.md) · [Sheets](./sheets/gille.md)
 - [Tinuviel](./tinuviel.md) · [Sheets](./sheets/tinuviel.md)
 - [Sidbin](./sidbin.md) · [Sheets](./sheets/sidbin.md)
+- [Witcheer](./witcheer.md) · [Sheets](./sheets/witcheer.md)
 
 ## Contributors & Side Characters
 
@@ -48,4 +49,3 @@ Click a name to open the character page. Click **Sheets** for extra art styles. 
 - [Suzu](./suzu.md) · [Sheets](./sheets/suzu.md)
 - [tdamre](./tdamre.md) · [Sheets](./sheets/tdamre.md)
 - [TunaCookie](./tunacookie.md) · [Sheets](./sheets/tunacookie.md)
-- [Witcheer](./witcheer.md) · [Sheets](./sheets/witcheer.md)

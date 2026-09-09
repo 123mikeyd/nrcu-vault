@@ -2,7 +2,7 @@
 
 ![Witcheer character reference sheet](../images/witcheer-character-sheet.png)
 
-> **Community member — confirmed appearance**
+> **Nous Crew — confirmed appearance**
 
 ## 3D Model
 

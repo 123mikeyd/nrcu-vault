@@ -33,6 +33,7 @@ Click a character picture below to open their page. For extra art styles, use **
 <tr>
 <td align="center"><a href="./characters/tinuviel.md"><img src="./images/tinuviel-sheet.png" alt="Tinuviel reference sheet" width="160"><br><strong>Tinuviel</strong></a></td>
 <td align="center"><a href="./characters/sidbin.md"><img src="./images/sidbin-sheet.png" alt="Sidbin reference sheet" width="160"><br><strong>Sidbin</strong></a></td>
+<td align="center"><a href="./characters/witcheer.md"><img src="./images/witcheer-character-sheet.png" alt="Witcheer reference sheet" width="160"><br><strong>Witcheer</strong></a></td>
 </tr>
 </table>
 
@@ -44,7 +45,6 @@ Contributors, side characters, and the wider NRCU cast.
 <tr>
 <td align="center"><a href="./characters/nous-girl.md"><img src="./images/nous-girl-reference.png" alt="Nous Girl sketch reference" width="160"><br><strong>Nous Girl</strong></a></td>
 <td align="center"><a href="./characters/doge-man.md"><img src="./images/doge-man-model-preview.png" alt="Doge Man model preview" width="160"><br><strong>Doge Man</strong></a></td>
-<td align="center"><a href="./characters/witcheer.md"><img src="./images/witcheer-character-sheet.png" alt="Witcheer reference sheet" width="160"><br><strong>Witcheer</strong></a></td>
 </tr>
 </table>
 
@@ -73,7 +73,7 @@ Rigged character models with skeletons, skin weights, embedded textures, and ani
 **[All Characters](./characters/README.md)**
 
 - **Founders:** [Teknium](./characters/teknium.md), [Mephisto](./characters/mephisto.md), and [Emo](./characters/emozilla.md).
-- **Nous Crew:** Turbo Fit, Heartbreaker, Gille, Tinuviel, and Sidbin.
+- **Nous Crew:** Turbo Fit, Heartbreaker, Gille, Tinuviel, Sidbin, and Witcheer.
 - **Contributors & Side Characters:** the wider cast, with room for everyone as the NRCU grows.
 
 Browse groups are separate from fictional allegiance. Existing references remain below.
