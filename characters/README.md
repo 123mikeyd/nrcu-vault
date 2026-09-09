@@ -7,7 +7,7 @@ One growing character library with three browsing groups. Every character keeps 
 ## Founders
 
 - [Teknium](./teknium.md) · [Sheets](./sheets/teknium.md)
-- [Mephisto](./mephisto.md) · Sheet not yet available
+- [Mephisto](./mephisto.md) · [Reference artwork](./sheets/mephisto.md)
 - [Emo / Jeffrey Quesnelle](./emozilla.md) · Sheet not yet available
 
 ## Nous Crew

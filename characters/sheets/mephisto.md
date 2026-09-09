@@ -1,11 +1,9 @@
-# Mephisto — Character Sheets
+# Mephisto — Reference Artwork
 
 [Character profile](../mephisto.md) · [All characters](../README.md) · [Visual library](../../library/index.html)
 
-Supplementary character art from [Sahil’s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse). Existing primary references and character lore remain unchanged. Printed sheet details describe that interpretation, not automatic affiliation or biography.
+![Mephisto reference artwork: girl and horned clay monster](../../images/mephisto-reference.png)
 
-No character sheets are included for this character in the imported collection.
+[Open the full original PNG](../../images/mephisto-reference.png). Preserved without cropping or retouching. This is a character reference image rather than a multi-view sheet.
 
-## Full-resolution originals
-
-[Source full-resolution release ZIP](https://github.com/Sahil-SS9/hermes-multiverse/releases/download/v0.2.0-wip/hermes-multiverse-v0.2.0-wip-full-resolution.zip). The smaller WebP copies above are for browsing. The [content notice](../../CONTENT-NOTICE.md) applies.
+The [content notice](../../CONTENT-NOTICE.md) applies.

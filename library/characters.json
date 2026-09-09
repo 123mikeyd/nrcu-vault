@@ -2855,6 +2855,8 @@
     {
       "id": "mephisto",
       "name": "Mephisto",
+      "primary_reference": "images/mephisto-reference.png",
+      "visual_status": "selected-reference-artwork",
       "group": "founders",
       "profile": "characters/mephisto.md",
       "sheets_page": "characters/sheets/mephisto.md",
