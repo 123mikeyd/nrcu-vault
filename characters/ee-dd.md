@@ -15,6 +15,10 @@ ee.dd appears as a small green frog-like meme avatar perched on **Nous Girl’s*
 
 The avatar’s reference is treated as a third-party meme-style visual cameo only. It is not a new NRCU character design or reusable vault asset.
 
+## Landscape avatar
+
+The archive owner describes ee.dd’s avatar as a landscape that resolves into a Pepe-like face when viewed from a distance: a canoe forms the mouth, and white tunic-like cloth hanging on a drying line forms the eyes. The original landscape has not yet been selected for display here.
+
 ## Deliberate boundaries
 
-This archive records ee.dd’s community-moderator role and the video cameo only. It does not publish personal-life details, establish a fictional backstory, or assign team membership, abilities, or additional lore.
+This archive records ee.dd’s community role, video cameo, and the owner-described landscape avatar. Fictional backstory, abilities, and team membership remain open.

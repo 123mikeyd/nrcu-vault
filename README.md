@@ -21,6 +21,16 @@ Rigged character models with skeletons, skin weights, embedded textures, and ani
 
 ## 🖼️ Character Gallery
 
+### Explore the NRCU
+
+**[All Characters — searchable visual library](./library/index.html)** · **[Grouped character directory](./characters/README.md)**
+
+- **Founders:** [Teknium](./characters/teknium.md), [Mephisto](./characters/mephisto.md), and [Emo](./characters/emozilla.md).
+- **Nous Crew:** Turbo Fit, Heartbreaker, Gille, Tinuviel, and Sidbin.
+- **Contributors & Side Characters:** the wider cast, with room for everyone as the NRCU grows.
+
+Browse groups are separate from fictional allegiance. Character sheets and alternate styles are linked from the directory; existing primary references remain below. On GitHub, use the grouped directory; the searchable HTML library opens locally and can be hosted later.
+
 Click a picture to open its character page. These are existing reference images, except Doge Man's 3D model preview; gallery inclusion does not establish squad membership. Model downloads are listed separately above.
 
 <table>

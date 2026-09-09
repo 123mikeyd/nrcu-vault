@@ -1,23 +1,49 @@
-# Character Index
+# All Characters
 
-This is the complete alphabetical index of NRCU character and community-participant profiles. Inclusion here does **not** by itself establish squad membership, allegiance, or fictional canon; each profile records its own evidence and status.
+**[Open the searchable visual library](../library/index.html)**
 
-- [coffeeblender](./coffeeblender.md)
-- [Doge Man](./doge-man.md)
-- [Don Piedro](./don-piedro.md)
-- [ee.dd](./ee-dd.md)
-- [Jeffrey Quesnelle (Emozilla)](./emozilla.md)
+One growing character library with three browsing groups. Every character keeps a permanent page; these groups describe the archive's presentation, not employment or fictional allegiance. Existing lore and primary references stay intact; additional sheets are collected separately.
+
+## Founders
+
+- [Teknium](./teknium.md) · [Sheets](./sheets/teknium.md)
+- [Mephisto](./mephisto.md) · Sheet not yet available
+- [Emo / Jeffrey Quesnelle](./emozilla.md) · Sheet not yet available
+
+## Nous Crew
+
+- [Turbo Fit](./turbo-fit.md) · [Sheets](./sheets/turbo-fit.md)
+- [Heartbreaker](./heartbreaker.md) · [Sheets](./sheets/heartbreaker.md)
+- [Gille](./gille.md) · [Sheets](./sheets/gille.md)
+- [Tinuviel](./tinuviel.md) · [Sheets](./sheets/tinuviel.md)
+- [Sidbin](./sidbin.md) · [Sheets](./sheets/sidbin.md)
+
+## Contributors & Side Characters
+
+- [123mikeyd](./123mikeyd.md) · [Sheets](./sheets/123mikeyd.md)
+- [adolan](./adolan.md) · [Sheets](./sheets/adolan.md)
+- [ArtsBro](./artsbro.md) · [Sheets](./sheets/artsbro.md)
+- [coffeeblender](./coffeeblender.md) · [Sheets](./sheets/coffeeblender.md)
+- [Cthulhu](./cthulhu.md) · [Sheets](./sheets/cthulhu.md)
+- [Doge Man](./doge-man.md) · [Sheets](./sheets/doge-man.md)
+- [Don Piedro](./don-piedro.md) · [Sheets](./sheets/don-piedro.md)
+- [ee.dd](./ee-dd.md) · Landscape avatar reference
+- [FatCat](./fatcat.md) · [Concept sheets](./sheets/fatcat.md) · Story role open
+- [Fleety13](./fleety.md) · [Sheets](./sheets/fleety.md)
 - [GGB — Gummy Bee](./ggb.md)
-- [Gille](./gille.md)
-- [Heartbreaker (Brooklyn)](./heartbreaker.md)
-- [Hermes User: 123321](./hermes-user-123321.md)
-- [I Sneeze Kittens](./isneezekittens.md)
-- [Nous Girl](./nous-girl.md)
-- [quark2world](./quark2world.md)
-- [Sidbin — Mirror Shade](./sidbin.md)
-- [sudo-nightwing](./sudo-nightwing.md)
-- [Suzu](./suzu.md)
-- [Teknium](./teknium.md)
-- [Tinuviel — The Starry Wanderer](./tinuviel.md)
-- [Turbo Fit](./turbo-fit.md)
-- [Witcheer](./witcheer.md)
+- [Gottz](./gottz.md) · [Sheets](./sheets/gottz.md)
+- [Hermes User: 123321](./hermes-user-123321.md) · [Sheets](./sheets/hermes-user-123321.md)
+- [I Sneeze Kittens](./isneezekittens.md) · [Sheets](./sheets/isneezekittens.md)
+- [MGF.654](./mgf-654.md) · [Sheets](./sheets/mgf-654.md)
+- [Noctis](./noctis.md) · [Sheets](./sheets/noctis.md)
+- [Nous Girl](./nous-girl.md) · [Sheets](./sheets/nous-girl.md)
+- [quark2world](./quark2world.md) · [Sheets](./sheets/quark2world.md)
+- [realtimeuk](./realtimeuk.md) · [Sheets](./sheets/realtimeuk.md)
+- [Sahil](./sahil.md) · [Sheets](./sheets/sahil.md)
+- [salt555](./salt555.md) · [Sheets](./sheets/salt555.md)
+- [shawncleta](./shawncleta.md) · [Sheets](./sheets/shawncleta.md)
+- [sudo-nightwing](./sudo-nightwing.md) · [Sheets](./sheets/sudo-nightwing.md)
+- [Suzu](./suzu.md) · [Sheets](./sheets/suzu.md)
+- [tdamre](./tdamre.md) · [Sheets](./sheets/tdamre.md)
+- [TunaCookie](./tunacookie.md) · [Sheets](./sheets/tunacookie.md)
+- [Witcheer](./witcheer.md) · [Sheets](./sheets/witcheer.md)

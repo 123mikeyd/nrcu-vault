@@ -39,4 +39,4 @@ When the incoming attacks slip through Teknium's hologram, sudo-nightwing is one
 - [GitHub commit search: samherring99 in NousResearch](https://api.github.com/search/commits?q=author:samherring99+org:NousResearch&per_page=100)
 - [GitHub commit search: samherring99 in hermes-agent](https://api.github.com/search/commits?q=author:samherring99+repo:NousResearch/hermes-agent&per_page=100)
 
-*No profile avatar or personal portrait is included. Art is pending explicit approval from Sam.*
+[Browse supplementary character sheets](./sheets/sudo-nightwing.md). Included for archival reference under the existing [content notice](../CONTENT-NOTICE.md).
