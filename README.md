@@ -17,7 +17,7 @@ Click a character picture below to open their page. For extra art styles, use **
 <table>
 <tr>
 <td align="center"><a href="./characters/teknium.md"><img src="./images/teknium-leafage-shades.png" alt="Teknium head reference" width="160"><br><strong>Teknium</strong></a></td>
-<td align="center"><a href="./characters/mephisto.md"><img src="./images/mephisto-reference.png" alt="Mephisto reference artwork" width="160"><br><strong>Mephisto</strong></a></td>
+<td align="center"><a href="./characters/mephisto.md"><img src="./images/mephisto-snow-portrait.png" alt="Mephisto snow portrait with eyes closed" width="160"><br><strong>Mephisto</strong></a></td>
 <td align="center"><a href="./characters/emozilla.md"><strong>Emo</strong></a><br>Artwork coming later</td>
 </tr>
 </table>

@@ -1,9 +1,17 @@
 # Mephisto — Reference Artwork
 
-[Character profile](../mephisto.md) · [All characters](../README.md) · [Visual library](../../library/index.html)
+[Character profile and artwork](../mephisto.md) · [All characters](../README.md)
 
-![Mephisto reference artwork: girl and horned clay monster](../../images/mephisto-reference.png)
+![Mephisto snow portrait with eyes closed](../../images/mephisto-snow-portrait.png)
 
-[Open the full original PNG](../../images/mephisto-reference.png). Preserved without cropping or retouching. This is a character reference image rather than a multi-view sheet.
+[Open the full snow portrait](../../images/mephisto-snow-portrait.png). Preserved without cropping or retouching.
+
+## Additional artwork
+
+- [Café portrait](../../images/mephisto-cafe.png)
+- [Motorcycle scene](../../images/mephisto-motorcycle.png)
+- [Sword scene](../../images/mephisto-sword-scene.png)
+
+[View these images together on the character page](../mephisto.md#additional-artwork).
 
 The [content notice](../../CONTENT-NOTICE.md) applies.

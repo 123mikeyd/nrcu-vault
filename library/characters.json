@@ -2852,7 +2852,12 @@
     {
       "id": "mephisto",
       "name": "Mephisto",
-      "primary_reference": "images/mephisto-reference.png",
+      "primary_reference": "images/mephisto-snow-portrait.png",
+      "additional_references": [
+        "images/mephisto-cafe.png",
+        "images/mephisto-motorcycle.png",
+        "images/mephisto-sword-scene.png"
+      ],
       "visual_status": "selected-reference-artwork",
       "group": "founders",
       "profile": "characters/mephisto.md",
