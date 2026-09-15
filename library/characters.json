@@ -831,7 +831,8 @@
       "sheets_page": "characters/sheets/ee-dd.md",
       "sheets": [],
       "publication_hold": false,
-      "visual_status": "landscape-avatar-awaiting-original"
+      "visual_status": "landscape-avatar-selected",
+      "primary_reference": "images/ee-dd-landscape.png"
     },
     {
       "id": "emozilla",

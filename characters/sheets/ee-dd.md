@@ -2,6 +2,8 @@
 
 [Character profile](../ee-dd.md) · [All characters](../README.md)
 
-The selected direction is the original landscape avatar: a canoe forms the mouth of a Pepe-like face, with white tunic-like cloth on a drying line forming the eyes. This description comes from the archive owner; the actual landscape image is still awaiting selection.
+![ee.dd landscape avatar](../../images/ee-dd-landscape.png)
 
-No character-sheet image is displayed here.
+A canoe forms the mouth of a Pepe-like face, with white cloth on a drying line forming the eyes.
+
+Included for archival reference under the [content notice](../../CONTENT-NOTICE.md); no reuse license is stated.

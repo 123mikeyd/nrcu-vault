@@ -17,8 +17,12 @@ The avatar’s reference is treated as a third-party meme-style visual cameo onl
 
 ## Landscape avatar
 
-The archive owner describes ee.dd’s avatar as a landscape that resolves into a Pepe-like face when viewed from a distance: a canoe forms the mouth, and white tunic-like cloth hanging on a drying line forms the eyes. The original landscape has not yet been selected for display here.
+![ee.dd landscape avatar](../images/ee-dd-landscape.png)
+
+ee.dd’s avatar is a landscape that resolves into a Pepe-like face when viewed from a distance: a canoe forms the mouth, and white cloth hanging on a drying line forms the eyes.
+
+Included for archival reference under the [content notice](../CONTENT-NOTICE.md); no reuse license is stated.
 
 ## Deliberate boundaries
 
-This archive records ee.dd’s Nous Crew membership, community role, video cameo, and the owner-described landscape avatar. Fictional backstory and abilities remain open.
+This archive records ee.dd’s Nous Crew membership, community role, video cameo, and the landscape avatar. Fictional backstory and abilities remain open.

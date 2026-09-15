@@ -42,7 +42,7 @@ Click a character picture below to open their page. For extra art styles, use **
 </tr>
 <tr>
 <td align="center"><a href="./characters/ggb.md"><img src="./images/ggb-reference-02.png" alt="GGB reference artwork" width="160"><br><strong>GGB</strong></a></td>
-<td align="center"><a href="./characters/ee-dd.md"><strong>ee.dd</strong></a><br>Landscape avatar image pending</td>
+<td align="center"><a href="./characters/ee-dd.md"><img src="./images/ee-dd-landscape.png" width="180" alt="ee.dd landscape avatar"><br><strong>ee.dd</strong></a><br>Landscape avatar</td>
 <td align="center"><a href="./characters/cthulhu.md"><img src="./images/character-sheets/cthulhu/anime.webp" alt="Cthulhu reference sheet" width="160"><br><strong>Cthulhu</strong></a></td>
 </tr>
 </table>
