@@ -27,7 +27,7 @@ Systems, Strategy, Growth
 
 ## Design Notes
 
-Teknium is the squad's green-haired leader. His spiky hair carries visible leafage, and he wears one connected sheet of triangular shades — never a mask, visor, or eye glow. He wears a dark-green tactical-style jacket with "NR" patches on the shoulders and carries the Hermes Command Staff alongside a glowing tablet of green schematics and maps.
+Teknium is the squad's green-haired leader. His spiky hair carries visible leafage, and he wears one connected sheet of triangular shades — never a mask, or eye glow. He wears a dark-green tactical-style jacket with "NR" patches on the shoulders and carries the Hermes Command Staff alongside a glowing tablet of green schematics and maps.
 
 ## Key Appearances
 
