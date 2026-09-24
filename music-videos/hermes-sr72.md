@@ -20,7 +20,8 @@ The video includes the **Hermes SR72 launch** transmission:
 
 - **YouTube upload:** MikeyD
 - **Made with:** Hermes Agent
-- **In association with:** Arts Bro, Sahil, and [amglolification](https://www.youtube.com/@amglolification)
+- **Music contribution:** Half of [Quark’s “Never Catch My Face”](https://youtu.be/yau5rWIwx5Q?si=I9jslgnclH1Pd8Dc) was used in this compilation.
+- **In association with:** Arts Bro, Sahil, and [Quark / quark2world](../characters/quark2world.md) ([amglolification](https://www.youtube.com/@amglolification))
 - **Archive:** Nous Research Cinematic Universe (NRCU)
 
 ## Archive notes

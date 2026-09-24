@@ -20,6 +20,10 @@ Includes a GLB with skeleton, skin weights, embedded textures, and animation cli
 | **Allegiance** | Nous Research |
 | **Signature Item** | Bass Guitar |
 
+## Community identity
+
+**Turbofit / Turbo Fit** is the NRCU character for **Sovthpaw**, a community moderator and left-handed guitar player. His handle is spelled **Sovthpaw**, with a **v**.
+
 ## Focus
 
 Performance, Hardware, Open-Source Advocacy

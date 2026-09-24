@@ -16,7 +16,8 @@ A hype transmission for **Nous Hackathon #2**. Its creator describes the video a
 
 ## Credits & links
 
-- **Video / upload:** [amglolification](https://www.youtube.com/@amglolification)
+- **Video / upload:** [Quark / quark2world](../characters/quark2world.md), on [amglolification](https://www.youtube.com/@amglolification)
+- **Song:** “One More Prompt” by [Quark / quark2world](../characters/quark2world.md)
 - **Tools credited by creator:** [Hermes Agent](https://github.com/NousResearch/hermes-agent) and [hermelinChat](https://github.com/quarker1337/hermelinChat)
 - **Archive:** Nous Research Cinematic Universe (NRCU)
 
